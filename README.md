@@ -18,3 +18,7 @@ Start stopping seems to be the answer here.
 ## Contributing
 
 We should've started with just publishing a static HTML file instead of using the GitHub platform. We failed desperately in this no platform effort, please be better.
+
+## Credits
+
+Inspired by [Kelseys nocode](https://github.com/kelseyhightower/nocode)
